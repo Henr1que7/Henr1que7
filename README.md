@@ -1,6 +1,5 @@
 # C Henrique 🌵 
 
-**`Desenvolvedora FullStack`**
 
 Me chamo Carlos Henrique, tenho 18 anos e sou natural de Alagoas. Atualmente, estou cursando Ciências da Computação na Uninassau. 
 <p align="left">
@@ -9,7 +8,7 @@ Me chamo Carlos Henrique, tenho 18 anos e sou natural de Alagoas. Atualmente, es
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
