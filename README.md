@@ -1,7 +1,7 @@
 # C Henrique 🌵 
 
 
-Me chamo Carlos Henrique, tenho 18 anos e sou natural de Alagoas. Atualmente, estou cursando Ciências da Computação na Uninassau. 
+Me chamo Carlos Henrique, tenho 19 anos e sou natural de Alagoas. Atualmente, estou cursando Ciências da Computação na Uninassau. 
 <p align="left">
   
   
@@ -71,15 +71,3 @@ Me chamo Carlos Henrique, tenho 18 anos e sou natural de Alagoas. Atualmente, es
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
